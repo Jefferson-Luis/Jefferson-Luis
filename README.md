@@ -13,7 +13,7 @@ Participei do treinamento do Banco Modal a Trilha: Ciências de Dados para o Mer
 Estou iniciando o curso de graduação de Bacharelado em Tecnologia da Informação pela Univesp.
 Atualmente participo da Trilha Oracle Next Education - Alumni - Data Science.
 O QUE ESTOU APRENDENDO NA FORMAÇÃO?
-Nesta formação estou aprendendo a versão 3 dessa linguagem na prática e focada em Data Science.
+Nesta formação estou aprendendo a linguagem na prática e focada em Data Science.
 1. A dar os primeiros passos na linguagem até criar seu primeiro modelos de Machine Learning;
 2. A conhecer as principais bibliotecas na área como Pandas, Matplotlib, Seaborn e SKLearn e ter contato com diversas frentes da ciência de dados.
 3. Aprofundar nos Serviços para Análise de Dados na Nuvem Oracle e com o software Oracle Analytics, ferramentas Oracle para trabalhar com dados.
