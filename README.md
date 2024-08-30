@@ -5,18 +5,13 @@
 - 📫 How to get to me... jeffersonalveti@gmail.com
 
 <!--- Jefferson-Luis/Jefferson-Luis is a special repository of ✨ ✨ because your README.md (this file) appears on your GitHub --->
-[![  Graduado em Administração de Empresas
-Comecei estudando tecnologia o curso de Técnico de Informática para Internet no Senai SP, participei do Treinamento One - Oracle Next Education | Alura a trilha de Front End (HTML, CSS5, Java Script)
-Participei da Trilha Oracle Next Education - Alumni - Data Science.
-
-Participei do treinamento do Banco Modal a Trilha: Ciências de Dados para o Mercado Financeiro. O Curso Data Science com Python, sendo capacitado a obter, manipular, processar e analisar dados de uma forma inteligente, tendo exemplos práticos de análise de dados implementados com Python).Participei da Trilha Oracle Next Education - Alumni - D
-
-Estou iniciando o curso de graduação de Bacharelado em Tecnologia da Informação pela Univesp.
-
-O QUE ESTOU APRENDENDO NA FORMAÇÃO?
-
-Nesta formação estou aprendendo a linguagem Python a versão 3 na prática e focada em Data Science.
-
-1. A dar os primeiros passos na linguagem até criar seu primeiro modelos de Machine Learning;
-2. A conhecer as principais bibliotecas na área como Pandas, Matplotlib, Seaborn e SKLearn e ter contato com diversas frentes da ciência de dados.
-3. Aprofundar nos Serviços para Análise de Dados na Nuvem Oracle e com o software Oracle Analytics, ferramentas Oracle para trabalhar com dados.
+[![ 
+Aspiring Data Scientist & Cloud Enthusiast
+Olá! Meu nome é Jefferson e sou um profissional apaixonado por tecnologia e dados. Minha jornada profissional é focada em otimizar sistemas e impulsionar a inovação através da análise de dados e soluções em cloud computing.
+Sou graduado em Administração de Empresas pela Universidade de Mogi das Cruzes, com MBA em Inovação em Unidades de Informação pela UFSCar, e atualmente curso Bacharelado em Tecnologia da Informação pela Univesp, buscando me aprofundar nas áreas de Análise de Dados, Machine Learning e Inteligência Artificial, com foco em NLP e GenAI.
+Acredito que o desenvolvimento contínuo é essencial para a evolução profissional em um mundo tecnológico em constante transformação. Minha experiência em infraestrutura de TI, atuando como Analista de Network Operation Center na weai.tecnologia me preparou para os desafios da área de Data Science, permitindo que eu desenvolvesse habilidades essenciais como:
+Análise de dados: Coletei, tratei e analisei dados para identificar padrões, tendências e insights relevantes.
+Otimização de sistemas: Utilizei ferramentas como Dynatrace, AWS e Azure para garantir a alta disponibilidade e performance dos serviços, contribuindo para uma redução significativa no tempo de resolução de incidentes.
+Trabalho em equipe: Desenvolvemos estratégias colaborativas e efetivas para atingir resultados extraordinários.
+As certificações em Inteligência Artificial e Produtividade, Big Data, AWS Cloud Practitioner e Python que possuo comprovam meu compromisso com o desenvolvimento profissional e a busca por conhecimento.
+Atualmente, estou aprimorando meus conhecimentos em cloud computing através do programa Google Cloud Career Launchpad - LatAm, buscando construir uma carreira de sucesso em Data Science, construir soluções inovadores e contribuir para o crescimento de organizações.
