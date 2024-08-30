@@ -5,7 +5,7 @@
 - 📫 How to get to me... jeffersonalveti@gmail.com
 
 <!--- Jefferson-Luis/Jefferson-Luis is a special repository of ✨ ✨ because your README.md (this file) appears on your GitHub --->
-[![ 
+
 Aspiring Data Scientist & Cloud Enthusiast
 Olá! Meu nome é Jefferson e sou um profissional apaixonado por tecnologia e dados. Minha jornada profissional é focada em otimizar sistemas e impulsionar a inovação através da análise de dados e soluções em cloud computing.
 Sou graduado em Administração de Empresas pela Universidade de Mogi das Cruzes, com MBA em Inovação em Unidades de Informação pela UFSCar, e atualmente curso Bacharelado em Tecnologia da Informação pela Univesp, buscando me aprofundar nas áreas de Análise de Dados, Machine Learning e Inteligência Artificial, com foco em NLP e GenAI.
