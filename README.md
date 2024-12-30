@@ -2,7 +2,7 @@
 - 👀 Interested in Data Analysis and Cloud Computing.
 - 🌱 I'm learning Python for data-driven solutions.
 - 💞️ Seeking collaborations on data analysis and cloud projects.
-- 📫 Reach out via: jeffersonalveti@gmail.com
+- 📫 Reach out via: jeffersonalveti@estudante.ufscar.br
 - 💼 My LinkedIn: https://www.linkedin.com/in/jefferson-alveti/
   
 # Data Analyst & Cloud Enthusiast | Transforming Data into Actionable Insights
