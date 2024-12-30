@@ -10,5 +10,5 @@ Sou um profissional apaixonado por tecnologia, com foco em Análise de Dados e C
   * Experiência como Analista NOC e Supervisor:  Aprimorei habilidades analíticas e liderança.
   * Competências em: Python, SQL, AWS, Azure, Power BI.
   * Formação: MBA em Inovação e graduação em Tecnologia da Informação (cursando). 
-  * Aprendizado contínuo:  Certificações em  Big Data, AWS, e Python.
+  * Aprendizado contínuo:  Certificações em  Big Data, AWS, Google e Python.
   * Próximo passo: Conectar dados para gerar valor aos negócios!
