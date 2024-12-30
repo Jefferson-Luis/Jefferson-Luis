@@ -1,9 +1,10 @@
 - 👋, I'm @Jefferson-Luis.
-- 👀'm interested in Ciências de dados
-- 🌱'm learning Python
-- 💞️'m trying to cooperate...interesse a aprender Data Science.
-- 📫 How to get to me... jeffersonalveti@gmail.com
-
+- 👀 Interested in Data Analysis and Cloud Computing.
+- 🌱 I'm learning Python for data-driven solutions.
+- 💞️ Seeking collaborations on data analysis and cloud projects.
+- 📫 Reach out via: jeffersonalveti@gmail.com
+- 💼 My LinkedIn: https://www.linkedin.com/in/jefferson-alveti/
+  
 # Data Analyst & Cloud Enthusiast | Transforming Data into Actionable Insights
 
 Sou um profissional apaixonado por tecnologia, com foco em Análise de Dados e Cloud Computing. Busco construir soluções que otimizem processos e guiem decisões baseadas em dados.
